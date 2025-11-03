@@ -1,0 +1,29 @@
+# -----------------------------
+# Lecturer Sentiment Analysis System
+# -----------------------------
+
+# Web Framework
+Flask==2.3.3
+Werkzeug==2.3.7
+Jinja2==3.1.2
+
+# Speech Recognition & Audio Processing
+SpeechRecognition==3.10.0
+pydub==0.25.1
+PyAudio==0.2.11
+
+# Text Processing & NLP
+textblob==0.17.1
+nltk==3.8.1
+
+# Scientific Computing
+numpy==1.24.3
+pandas==2.2.3
+
+# Utilities
+six==1.16.0
+
+# Optional - for enhanced features
+matplotlib==3.7.1
+scipy==1.10.1
+librosa==0.10.1
